@@ -1,0 +1,31 @@
+
+<meta charset="utf-8">
+<html>
+<head>
+<style type="text/css">
+@import url(https://tauhu.tw/tauhu-oo.css);
+
+
+#demoFont {
+font-family: tauhu-oo, PingFangTC-Regular, "Microsoft JhengHei", sans-serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+
+
+
+</style>
+</head>
+<body>
+<div id="demoFont">學號U0958032洪翊瑄
+<div id="demoFont">𠊎𪹚𫝘𫟧𫠛
+</body>
+</html>
